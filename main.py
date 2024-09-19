@@ -1,5 +1,7 @@
 import numpy as np
 import cv2 as cv #type: ignore
+
+# I am going to crash out I lie. I just wanted to type it
  
 cap = cv.VideoCapture(0)
 if not cap.isOpened():
